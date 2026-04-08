@@ -1,0 +1,24 @@
+INFORME DE CONCLUSIONES - ANALISIS DE VENTAS
+
+1) Datos analizados
+- Se analizaron 500 registros de ventas del archivo ventas_sinteticas.csv.
+- El periodo cubierto corresponde al ano 2025.
+
+2) Resultado general
+- Ingresos totales estimados: $1,797,377.78.
+
+3) Hallazgos principales
+- Producto mas vendido por unidades: Webcam (782 unidades).
+- Producto con mayor ingresos: Laptop ($840,634.04).
+- Mes con mayores ingresos: 2025-02 ($205,170.56).
+- Mes con menores ingresos: 2025-01 ($116,007.10).
+
+4) Conclusiones
+- El negocio presenta una alta dependencia de ingresos en productos de ticket alto, especialmente Laptop.
+- Aunque Webcam lidera en volumen, su aporte economico es menor que el de productos premium.
+- Existe variacion mensual de ingresos, por lo que conviene reforzar promociones en meses de menor desempeno.
+
+5) Recomendaciones
+- Mantener estrategia comercial fuerte para Laptop (stock, pricing y financiamiento).
+- Diseñar paquetes de venta cruzada entre Webcam y productos de mayor margen.
+- Ejecutar acciones comerciales especificas para meses bajos para estabilizar ingresos.
